@@ -80,9 +80,6 @@ You must watch **80% of all core IBM Quantum lectures** to qualify. Special gues
 
 At the end of the event you'll complete a form to claim your badge. Provide your full name and the **IBM Cloud IAM ID** linked to the account you used during QGSS (the form includes instructions for finding your IAM ID). This is how your badge is matched even if the account email differs from your event-registration email.
 
-**What's the difference between the beginner track and the advanced track?**
-Both tracks access the **same learning content**. The beginner (beginners-only) track lets you follow along **without the pressure** of completing the advanced lab assignments and programming exercises. You are automatically sorted into a track based on the **self-assessment you completed during registration**. Regardless of track, the badge you earn depends on how many labs you complete (see above).
-
 **Is there attendance?**
 There is no manual attendance. You can watch sessions either live or recorded. The 80% watch requirement is calculated by the platform (based on how much of each video you have watched).
 
